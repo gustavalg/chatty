@@ -1,0 +1,67 @@
+{
+  "hash": "b9941dce",
+  "configHash": "ada92cd3",
+  "lockfileHash": "77c2ff94",
+  "browserHash": "12f3b042",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "98955b58",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "106cab4d",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "2de2dec6",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "d4de2aa3",
+      "needsInterop": false
+    },
+    "react-hot-toast": {
+      "src": "../../node_modules/react-hot-toast/dist/index.mjs",
+      "file": "react-hot-toast.js",
+      "fileHash": "87b28f05",
+      "needsInterop": false
+    },
+    "zustand": {
+      "src": "../../node_modules/zustand/esm/index.mjs",
+      "file": "zustand.js",
+      "fileHash": "9a6fb7ba",
+      "needsInterop": false
+    },
+    "browser-image-compression": {
+      "src": "../../node_modules/browser-image-compression/dist/browser-image-compression.mjs",
+      "file": "browser-image-compression.js",
+      "fileHash": "d68f4dd3",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "e6639f1b",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-TKHB4QMX": {
+      "file": "chunk-TKHB4QMX.js"
+    },
+    "chunk-YLDSBLSF": {
+      "file": "chunk-YLDSBLSF.js"
+    },
+    "chunk-DC5AMYBS": {
+      "file": "chunk-DC5AMYBS.js"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "chatty",
+  "version": "1.0.0",
+  "description": "This is Chatty, a real-time Web-Messenger. It's my latest project and I'm currently working on the real-time features.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix Backend && npm install --prefix Frontend && npm run build --prefix Frontend",
+    "start": "npm run start --prefix Backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavalg/chatty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavalg/chatty/issues"
+  },
+  "homepage": "https://github.com/gustavalg/chatty#readme"
+}
